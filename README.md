@@ -15,7 +15,8 @@
 - Database: MongoDB  
 
 ## 📂 Project Link
-[Live Agent Page](https://agent.ai/sohumseth703/resumatch-agent)
+[Live Agent Page](https://agent.ai/agent/resumatch-agent)
+
 
 ## 👨‍💻 Author
 **Sohum Seth**  
